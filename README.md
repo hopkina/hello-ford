@@ -19,6 +19,7 @@ By default this runs at [http://127.0.0.1:4200](http://127.0.0.1:4200)
 
 ## Run the deployment locally using the CLI
 `prefect deployment run get-bathing-water-quality/bathing-water-quality`
+
 `prefect agent start -q test`
 
 ## Sample input area ids
